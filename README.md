@@ -54,7 +54,7 @@ ApMod — балансный мод, основная цель которого 
 
 ### База для мода
 1. Оригинальная игра `S.T.A.L.K.E.R.: Call of Pripyat` (версия `1.6.02`).
-2. Мод `Gunslinger` (*обязательно* версия 19.09.22): [gunslinger_installer_160922.zip](https://mega.nz/file/sU4WSLwC#XwRn0muhv25GJYUPcShSU-nCNj7bGVpb-7CT6izHKCg)
+2. Мод `Gunslinger` (*обязательно* версия `от 19.09.2022`): [gunslinger_installer_160922.zip](https://mega.nz/file/sU4WSLwC#XwRn0muhv25GJYUPcShSU-nCNj7bGVpb-7CT6izHKCg)
 3. Дополнительные моды в составе дистрибутива Gunslinger:
 - [x] `Absolute Nature 4` (мод на растительность, настоятельно советую «**Осенний**» пак)
 - [x] `CGIM2` (погодный мод)
