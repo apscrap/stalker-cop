@@ -70,7 +70,7 @@ ApMod — балансный мод, основная цель которого 
 ![gunslinger.png](/readme/gunslinger.png)
 
 3. Скопировать текстуры из пака Stalker 2K (Tiny Little) в папку `\gamedata\textures\` мода Gunslinger, созданную в п.2: `c:\games\stalker_gunslinger\gamedata\textures\`.
-4. Скопировать содержимое многотомного zip-архива мода ApMod (gamedata.zip.001, gamedata.zip.002, gamedata.zip.003) в папку `\gamedata\` мода Gunslinger, созданную в п.2: `c:\games\stalker_gunslinger\gamedata\`.
+4. Распаковать многотомный zip-архив мода ApMod (файлы `gamedata.zip.001`, `gamedata.zip.002`, `gamedata.zip.003`) в папку мода Gunslinger, созданную в п.2: `c:\games\stalker_gunslinger\`. Должна появиться папка `c:\games\stalker_gunslinger\gamedata\` со всем содержимым.
 5. Можно запускать игру!
 
 
