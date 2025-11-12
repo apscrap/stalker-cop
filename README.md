@@ -97,6 +97,6 @@ P.P.S. Фидбэк направляйте в [спортлото](https://githu
 > 
 > **ВАЖНО!** При уже имеющемся файле `userDefineLang.xml` ни в коем случае не перезаписывать — потеряете другие пользовательские синтаксисы! Нужно просто открыть этот xml-файл в *текстовом* редакторе и внутрь блока `<NotepadPlus>...</NotepadPlus>` скопировать блок `<UserLang name="LTX (Stalker)" ext="ltx" udlVersion="2.1">...</UserLang>` целиком.
 >
-> На всякий случай выкладываю полностью настроенную portable-версию редактора: [notepad++.zip](https://github.com/apscrap/stalker-soc/blob/main/soft/notepad++.zip)
+> На всякий случай выкладываю полностью настроенную portable-версию редактора: [notepad++.zip](https://github.com/apscrap/stalker-soc/blob/main/soft/notepad++.zip).
 > 
 > [![](https://github.com/apscrap/stalker-soc/blob/main/soft/ltx_preview.png)](https://github.com/apscrap/stalker-soc/blob/main/soft/ltx_full.png)
